@@ -46,7 +46,7 @@ A table tennis Discord bot. Ported from [https://github.com/mschneider85/dimitri
 
 ## Installation ##
 
-1. Make sure you installed Python ~> 2.7
+1. Make sure you installed Python ~> 3.5
 
         $ python --version
 
