@@ -50,15 +50,19 @@ A table tennis Discord bot. Ported from [https://github.com/mschneider85/dimitri
 
         $ python --version
 
-2. Setup credentials
+2. Install discord.py
+
+        $ pip install -U discord.py
+
+3. Setup credentials
 
    Enter a valid token in `config/credentials.py`.
 
-3. Start botting
+4. Start botting
 
         $ python dimitrij.py
 
-4. Follow the invite link in the console.
+5. Follow the invite link in the console.
 
 ## License ##
 
