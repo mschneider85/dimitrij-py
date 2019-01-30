@@ -1,0 +1,23 @@
+{
+  "transport": "scp",
+  "hostname": "HOSTNAME",
+  "port": 22,
+  "username": "pi",
+  "useAgent": true,
+  "target": "/home/pi/dimitrij-py",
+  "uploadOnSave": true,
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "watch":[
+    "/dimitrij.py",
+    "/config/credentials.py",
+    "/config/credentials.py.example",
+    "/config/__init__.py",
+    "/lib/info.py",
+    "/lib/rng.py",
+    "/lib/tt.py",
+    "/lib/uptime.py"
+  ]
+}
