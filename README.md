@@ -46,13 +46,13 @@ A table tennis Discord bot. Ported from [https://github.com/mschneider85/dimitri
 
 ## Installation ##
 
-1. Make sure you installed Python ~> 3.5
+1. Make sure you installed Python ~> 3.5.6
 
         $ python --version
 
-2. Install discord.py
+2. Install dependencies
 
-        $ pip install -U discord.py
+        $ pip install -r requirements.txt
 
 3. Setup credentials
 
